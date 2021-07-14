@@ -1,22 +1,22 @@
-# DIVI Project
+# HaloCoin Project
 [![Build Status](https://travis-ci.org/galpHub/Divi.svg?branch=master0)](https://travis-ci.org/galpHub/Divi)
 
-DIVI Core integration/staging repository
+HaloCoin Core integration/staging repository
 =====================================
 
 https://diviproject.org
 
-## What is Divi?
+## What is HaloCoin?
 ---
 
-Divi is a next-generation blockchain protocol that enables any user to begin earning, sending, and spending cryptocurrency easily, without the need for advanced technical knowledge. Divi uses a state-of-the-art Proof of Stake consensus mechanism that offers opportunities for users to stake their coins or allocate their coins to Masternodes, which secure the network and verify transactions.
+HaloCoin is a next-generation blockchain protocol that enables any user to begin earning, sending, and spending cryptocurrency easily, without the need for advanced technical knowledge. HaloCoin uses a state-of-the-art Proof of Stake consensus mechanism that offers opportunities for users to stake their coins or allocate their coins to Masternodes, which secure the network and verify transactions.
 
-For more information, as well as an immediately usable version of the Divi Project software, visit our website's [download page](https://diviproject.org/downloads), or read our [whitepaper](https://wiki.diviproject.org/#whitepaper).
+For more information, as well as an immediately usable version of the HaloCoin Project software, visit our website's [download page](https://diviproject.org/downloads), or read our [whitepaper](https://wiki.diviproject.org/#whitepaper).
 
 ## License 
 ---
 
-Divi Core is released under the terms of the MIT license. See https://opensource.org/licenses/MIT for more information.
+HaloCoin Core is released under the terms of the MIT license. See https://opensource.org/licenses/MIT for more information.
 
 ## Developing
 ---
