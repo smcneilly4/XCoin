@@ -1,4 +1,4 @@
-# xCoin Project
+# xCoin 
 [![Build Status](https://travis-ci.org/galpHub/Divi.svg?branch=master0)](https://travis-ci.org/galpHub/Divi)
 
 xCoin Core integration/staging repository
